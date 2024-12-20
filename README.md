@@ -10,6 +10,7 @@ It's for making an object more lika a silk stocking. As shown in the screenshot,
 Download the .zipmod file for the latest version on the **[Release](https://github.com/Blatke/Silk-Stocking-Shader-for-ME/releases)** page, and drag and drop it into your game's **/mods/** folder.
 
 ## How to use it?
+Better to see the demonstration video: https://youtu.be/vOt1-2O9gvc
 
 **A_Color**
 **A_MainTex**
