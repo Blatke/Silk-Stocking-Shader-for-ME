@@ -80,6 +80,12 @@ Like in the demonstration video, you can adjust the parameters of the properties
 
 **C_FluidRotation** rotates the fluid to change its dripping direction.
 
+## For modders
+If you are modding for HS2 or AIS and would like to use this shader in your mods, you can download the .shader file as well as the .unitypackage pack on the [Blake/Silk Stocking Shader](https://github.com/Blatke/Silk-Stocking-Shader/releases) and import them as assets in Unity.
+
+> [!IMPORTANT]
+> If you allow the users to adjust your mods, using this shader, on MaterialEditor tab, you need to suggest them installing this shader mod so that the related options can be shown on the tab.
+
 ## Acknowledgement
 I give special appreciation to [Hanmen](https://www.patreon.com/c/hanmen), who directly helped me with modding this shader to let MaterialEditor in HS2 and AIS successfully load it.
 
