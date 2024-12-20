@@ -89,4 +89,4 @@ If you are modding for HS2 or AIS and would like to use this shader in your mods
 ## Acknowledgement
 I give special appreciation to [Hanmen](https://www.patreon.com/c/hanmen), who directly and generously helped me with modding this shader to let MaterialEditor in HS2 and AIS successfully load it.
 
-I also thank kky-is, [Pizdatyi](https://www.pixiv.net/users/86387918), [Getdowncrazy](https://www.patreon.com/c/realillusionGDC/), [enimaroah](https://github.com/enimaroah-cubic/Sb3UGS/wiki) and ElusiveCake, who spent time in kindly replying to my questions about shader modding, and thus have brought me with enlightment.
+I also thank kky-is, [Pizdatyi](https://www.pixiv.net/users/86387918), [Getdowncrazy](https://www.patreon.com/c/realillusionGDC/), [enimaroah](https://github.com/enimaroah-cubic/Sb3UGS/wiki) and ElusiveCake, who spent time in kindly replying to my questions about shader modding, and thus have brought me with enlightenment.
