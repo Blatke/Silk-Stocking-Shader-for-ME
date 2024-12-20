@@ -17,7 +17,7 @@ Select an object such as clothes, pants, stockings, or something else in Studio 
 Like in the demonstration video, you can adjust the parameters of the properties shown on MaterialEditor tab in order to get the material a proper performance. The properties are listed below: 
 
 > [!TIP]
-> The prefixes like "A_", "B_" or "C_" only serve for sequencing the properties on MaterialEditor tab. They're not meaningful.
+> The prefixes like _A__, _B__ or _C__ only serve for sequencing the properties on MaterialEditor tab. They're not meaningful.
 
 ### Maps
 **A_DetailNormal** loads automatically the default normal map of silk stocking.
