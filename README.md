@@ -20,11 +20,13 @@ Like in the demonstration video, you can adjust the parameters of the properties
 > The prefixes like _A__, _B__ or _C__ only serve for sequencing the properties on MaterialEditor tab. They're not meaningful.
 
 ### Maps
-**A_DetailNormal** loads automatically the default normal map of silk stocking.
+**MainTex** is empty by default, and it serves for only cutout. The transparent patterns or background of a image imported into this slot can cull the slik stocking.
 
-**A_MainTex** loads automatically the default diffuse map of silk stocking.
+**Normal** is empty by default, and it provides another normal map slot for you to import a custom texture for bump effect. 
 
-**A_Normal** is empty by default, and it provides another normal map slot for you to import a custom texture for bump effect. 
+**A_StockingAlbedo** loads automatically the default diffuse map of silk stocking.
+
+**A_StockinglNormal** loads automatically the default normal map of silk stocking.
 
 **B_WetnessBumpMap** loads automatically the default bump map for wetness.
 
@@ -40,7 +42,9 @@ Like in the demonstration video, you can adjust the parameters of the properties
 **C_FluidColor** refers to the tint color of the fluid, if there is it.
 
 ### Parameters
-**A_DetailNormalStrength** refers to the intensity of the bump effect that silk stocking's normal map can perform (A_DetailNormal).
+**A_MainTexCutout** controls the strength of culling conducted by MainTex if there is semi-transparent patterns on the texture. Any values in the MainTex's alpha channel lower than A_MainTexCutout will let the silk stocking cull the corresponding parts.
+
+**A_StockingNormalStrength** refers to the intensity of the bump effect that silk stocking's normal map can perform (A_StockingNormal).
 
 **A_FresnelStrength** uses Fresnel effect that lets silk stocking have rims around its edges. Where there are more rims, stocking is more like opaque; where less, more like transparent and thus lets the object like skins behind the stocking can be seen through the stocking. This option controls the transparency of the rims.
 
@@ -54,13 +58,13 @@ Like in the demonstration video, you can adjust the parameters of the properties
 
 **A_Metallic** is the instensity of the metallic with reflection the stocking can perform.
 
-**A_NormalStrength** refers to the intensity of the bump effect that your imported normal map can perform (A_Normal).
+**A_NormalStrength** refers to the intensity of the bump effect that your imported normal map can perform (Normal).
 
-**A_TexDensity** refers to the density of silk stocking's diffuse map (A_MainTex). A greater value makes denser the grids on the map.
+**A_TexDensity** refers to the density of silk stocking's diffuse map (A_StockingAlbedo). A greater value makes denser the "fishnets" on the map.
 
-**A_TexLengthWidthRatio** means the ratio of the length to the width of the silk stocking's diffuse map (A_MainTex). Use it to make the grids on the map wider or longer.
+**A_TexLengthWidthRatio** means the ratio of the length to the width of the silk stocking's diffuse map (A_StockingAlbedo). Use it to make the "fishnets" on the map wider or longer.
 
-**A_TexRotation** controls the rotation degree of the silk stocking's diffuse map (A_MainTex).
+**A_TexRotation** controls the rotation degree of the silk stocking's diffuse map (A_StockingAlbedo).
 
 **B_WetnessStrength** lets there be wetness on silk stocking, and means to what extent the wetness's diffuse map (B_WetnessMap) can perform in its glossiness and metallic. 0 means no wetness at all.
 
