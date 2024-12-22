@@ -9,6 +9,9 @@ It's for making an object more like a silk stocking. As shown in the screenshot,
 ## How to install it?
 Download the .zipmod file for the latest version on the **[Release](https://github.com/Blatke/Silk-Stocking-Shader-for-ME/releases)** page, and drag and drop it into your game's **/mods/** folder.
 
+> [!CAUTION]
+> If you already have an **old** version of this shader mod in your Game or Studio, and now get a new version to update, please make sure that the **old** one is completely removed or replaced by the new one. Otherwise, new version might not be perfectly loaded on MaterialEditor tab.
+
 ## How to use it?
 Better to see the demonstration video: https://youtu.be/vOt1-2O9gvc
 
