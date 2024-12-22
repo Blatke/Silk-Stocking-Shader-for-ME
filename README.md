@@ -12,6 +12,9 @@ Download the .zipmod file for the latest version on the **[Release](https://gith
 ## How to use it?
 Better to see the demonstration video: https://youtu.be/vOt1-2O9gvc
 
+> [!NOTE]
+> Since this mod is updated, the names of some of the properties shown in the screenshot and the demonstration video above might be different.
+
 Select an object such as clothes, pants, stockings, or something else in Studio or Chara Maker mode, open it on MaterialEditor tab, change a particular material's default shader to **Blake/Silk Stocking Shader/v1.0.5** (the specific version you got might be greater than 1.0.5), then the material is re-shadered and loaded with some default maps. 
 
 Like in the demonstration video, you can adjust the parameters of the properties shown on MaterialEditor tab in order to get the material a proper performance. The properties are listed below: 
