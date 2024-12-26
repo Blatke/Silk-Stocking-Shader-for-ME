@@ -6,6 +6,8 @@ It's for making an object more like a silk stocking. As shown in the screenshot,
 
 ![AI_2024-12-20-18-52-54-666](https://github.com/user-attachments/assets/fdee0098-611b-4d87-b249-45d2e11b1222)
 
+More demonstrations for effect: https://youtu.be/FJvBy02Qspo; https://youtu.be/WixAnLEp4C4
+
 ## How to install it?
 Download the .zipmod file for the latest version on the **[Release](https://github.com/Blatke/Silk-Stocking-Shader-for-ME/releases)** page, and drag and drop it into your game's **/mods/** folder.
 
