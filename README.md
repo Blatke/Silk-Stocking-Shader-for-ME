@@ -1,5 +1,5 @@
 # Silk Stocking Shader for ME
-A shader mod for HS2 / AIS MaterialEditor. It's based on [Blake/Silk Stocking Shader](https://github.com/Blatke/Silk-Stocking-Shader), which is a shaderlab coded shader in Unity.
+A shader mod for HS2 / AIS MaterialEditor. It's based on [Blake/Silk Stocking Shader]https://github.com/Blatke/Silk-Stocking.shader), which is a shaderlab coded shader in Unity.
 
 ## What is it?
 It's for making an object more like a silk stocking. As shown in the screenshot, the shader is loaded to the material of the pants that a character is wearing. By default, the closer it is near by the bumps on the legs, the more transparency it will show so that the character's skins could be seen (it's what they called Fresnel effect).
@@ -93,7 +93,7 @@ Like in the demonstration video, you can adjust the parameters of the properties
 **C_FluidRotation** rotates the fluid to change its dripping direction.
 
 ## For modders
-If you are modding for HS2 or AIS and would like to use this shader in your mods, you can download the .shader file as well as the .unitypackage pack on the [Blake/Silk Stocking Shader](https://github.com/Blatke/Silk-Stocking-Shader/releases) and import them as assets in Unity.
+If you are modding for HS2 or AIS and would like to use this shader in your mods, you can download the .shader file as well as the .unitypackage pack on the [Blake/Silk Stocking Shader](https://github.com/Blatke/Silk-Stocking.shader/releases) and import them as assets in Unity.
 
 > [!IMPORTANT]
 > If you allow the users to adjust your mods, using this shader, on MaterialEditor tab, you need to suggest them installing this shader mod so that the related options can be shown on the tab.
